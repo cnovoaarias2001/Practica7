@@ -32,7 +32,7 @@ $TTL 38400	; 9 hours 30 minutes
 				604800     ; expire 
 				38400      ; minimum 
 				)
-@		IN NS	ns.iago.int.
+@		IN NS	ns.carlos.int.
 ns		IN A		172.30.5.1
 test	IN A		172.30.5.4
 www		IN A		172.30.5.7
